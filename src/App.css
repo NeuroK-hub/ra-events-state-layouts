@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+@import url('./components/CardsView/CardView.css');
+@import url('./components/IconSwitch/IconSwitch.css');
+@import url('./components/ListView/ListView.css');
+
+.wrapper {
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+ }
